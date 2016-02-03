@@ -1,4 +1,4 @@
-3Coffee
+3Coffee Game
 =======
 This is a small game created on top of an open source Java Game Engine - https://github.com/divs1210/3Coffee
 
